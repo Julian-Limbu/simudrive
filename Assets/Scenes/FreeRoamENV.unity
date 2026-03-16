@@ -424,7 +424,7 @@ Rigidbody:
   m_GameObject: {fileID: 583423981}
   serializedVersion: 4
   m_Mass: 1000
-  m_Drag: 0
+  m_Drag: 0.1
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
@@ -456,7 +456,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 583423981}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6c3a995846043c43bcaddb99d9abdb0, type: 3}
+  m_Script: {fileID: 11500000, guid: 32a4e387395592743a5fec4fc5dbb0f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rigid: {fileID: 583423982}
