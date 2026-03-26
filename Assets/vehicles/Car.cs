@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class Car : MonoBehaviour
 {
@@ -27,4 +27,4 @@ public class Car : MonoBehaviour
         wheel1.steerAngle = steerspeed * horizontalInput;
         wheel2.steerAngle = steerspeed * horizontalInput;
     }
-}
+}*/

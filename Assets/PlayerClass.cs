@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class PlayerClass : MonoBehaviour
 {
@@ -23,3 +23,4 @@ public class PlayerClass : MonoBehaviour
         }
     }
 }
+*/
